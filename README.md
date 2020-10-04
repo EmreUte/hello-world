@@ -1,2 +1,3 @@
 # hello-world
-First repository
+First repository,
+My name is Emre, a student trying to learn to program.
